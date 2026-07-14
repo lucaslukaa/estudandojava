@@ -1,4 +1,4 @@
-class Main {
+public class dia1 {class Main {
     static void main(String[]args)
     {
         //Para criar uma variavel precisamos =  tipo de dado + identificação + valor atribuido
@@ -66,4 +66,5 @@ class Main {
         final String NAME = "Carlos";// toda vez que usar a palavra FINAL ela fica IMUTÁVEL;
         //recomendável usar letra MAIUSCULA para declar o nome da variavel quando ela for constante/imutavel
     }
+}
 }
